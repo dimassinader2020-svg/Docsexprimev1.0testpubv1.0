@@ -1,0 +1,6 @@
+{
+  "name": "Docsexprime.tn",
+  "description": "Une plateforme d’éducation sexuelle médicale et confidentielle conçue pour les jeunes tunisiens et les professionnels de santé, avec un assistant IA d'orientation clinique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
